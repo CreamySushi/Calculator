@@ -10,6 +10,7 @@ function DIVIDE(a,b){
 function SQUARE(a,b){
     return a**b
 }
+
 let a = 10
 let b = 12
 console.log("SUBTRACT: ", SUBTRACT(a,b))
